@@ -11,7 +11,8 @@
       "enforceDescriptions": true
     }],
     "lodash",
-    "transform-runtime"
+    "transform-runtime",
+    "flow-react-proptypes"
   ],
   "env": {
     "production": {
